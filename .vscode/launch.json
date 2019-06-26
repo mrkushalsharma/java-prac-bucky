@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - thread",
+            "request": "launch",
+            "mainClass": "thread",
+            "projectName": "java_de265ac0"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Appletss",
             "request": "launch",
             "mainClass": "Appletss",
