@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Appletss",
+            "request": "launch",
+            "mainClass": "Appletss",
+            "projectName": "java_de265ac0"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - apple",
+            "request": "launch",
+            "mainClass": "apple",
+            "projectName": "java_de265ac0"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - apples",
             "request": "launch",
             "mainClass": "apples",
